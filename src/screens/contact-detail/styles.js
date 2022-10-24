@@ -1,5 +1,4 @@
 import { StyleSheet } from "react-native";
-
 import colors from "../../utils/colors";
 
 export const styles = StyleSheet.create({
@@ -10,6 +9,7 @@ export const styles = StyleSheet.create({
     height: "40%",
     width: "100%",
     minHeight: 300,
+    borderRadius: 150,
   },
   content: {
     width: "100%",
